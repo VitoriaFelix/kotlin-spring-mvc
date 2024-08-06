@@ -1,7 +1,7 @@
 # Kotlin Web MVC with Spring Framework
 
-This project is about e-Programar course: **Kotlin Web with Spring Framework**,    
-that will be published on Udemy.
+Este projeto foi desenvolvido no curso e-Programar: **Kotlin Web com Spring Framework**,    
+disponibilizado na Udemy.
 
 **Stack**   
 
